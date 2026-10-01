@@ -1,6 +1,6 @@
 <div align="center">
 
-# CI/CD Pipeline on AWS
+# ClusterForge - CI/CD Pipeline on AWS
 ### Jenkins · Docker · Amazon ECR · Terraform · Kubernetes (EKS)
 
 A complete, automated path from `git push` to a running, load-balanced application on Kubernetes, with the entire cluster provisioned as code.
